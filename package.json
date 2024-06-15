@@ -1,0 +1,15 @@
+{
+  "name": "coding-exam-kavledesma",
+  "version": "1.0.0",
+  "description": "My answer to my coding exam",
+  "main": "index.js",
+  "scripts": {
+    "coding-exam": "node --watch index"
+  },
+  "keywords": [],
+  "author": "Kyle Aljay V. Ledesma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
