@@ -13,4 +13,4 @@ Enter these details in Postman:
 - Link: http://localhost:8080/palindromePairs
 - HTTP Verb: POST
 - Headers: Content-Type = application/json
-- Body: { words: [<insert your array of words here>]}
+- Body: { words: [--insert your array of words here--]}

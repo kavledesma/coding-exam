@@ -18,4 +18,4 @@ const palindromePairs = (wordsArray) => {
     return result
 }
 
-module.exports = { palindromePairs }
+module.exports = palindromePairs
