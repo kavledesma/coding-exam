@@ -17,4 +17,4 @@ Enter these details in Postman:
 - Link: http://localhost:8080/lengthOfLIS
 - HTTP Verb: POST
 - Headers: Content-Type = application/json
-- Body: { nums: [--insert your array of numbers here--]}
+- Body: { "nums": [--insert your array of numbers here--]}

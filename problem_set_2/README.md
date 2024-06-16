@@ -15,4 +15,4 @@ Enter these details in Postman:
 - Link: http://localhost:8080/validParentheses
 - HTTP Verb: POST
 - Headers: Content-Type = application/json
-- Body: { pattern: "--insert your pattern here--"}
+- Body: { "pattern": "--insert your pattern here--"}
